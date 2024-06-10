@@ -1,6 +1,6 @@
-#Projekt 2 - Informatyka Geodezyjna 2
-##Wtyczka do aplikacji Qgis
-###Wymagania:
+# Projekt 2 - Informatyka Geodezyjna 2
+## Wtyczka do aplikacji Qgis
+### Wymagania:
 - system Windows 11
 - program Qgis wersja 3.28 lub nowsza
 - python 3.11
