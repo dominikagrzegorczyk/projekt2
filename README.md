@@ -9,7 +9,7 @@
 - qgis.PyQt
 - qgis.utils
 - qgis.core
-##Funkcje wtyczki:
+## Funkcje wtyczki:
 1. Liczenie różnic wysokości między dwoma punktami
 Do policzenia przewyższenia między wybranymi punktami, należy wybrać dwa znajdujące się na tej samej warstwie. Program pobierze wtedy wartosc z kolumny o nazwie wysokosc z tabeli atrybutów. Działanie jakie będzie wykonywać program to odjęcie od siebie wysokości (wysokość zaznaczona jako druga - wysokość zaznaczona jako pierwsza). Przewyższenie może przyjmować wartości ujemne oraz dodatnie, w zależności od tego czy na terenie występuje spadek lub wzrost.
 Aby wtyczka poprawnie obliczyła wysokość zaznaczone punkty muszą znajdować sie na aktywnej warstwie punktowej oraz w takiej, która posiada w tabeli atrybutów kolumne z odpowiednimi wysokościami o nazwie "wysokosc".
